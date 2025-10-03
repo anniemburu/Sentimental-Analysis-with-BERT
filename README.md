@@ -1,4 +1,4 @@
-# Sentiment Analysis with BiLSTM  
+# Sentiment Analysis with BERT 
 
 ## 📌 Project Overview  
 This project implements Sentiment Analysis using BERT (Bidirectional Encoder Representations from Transformers). The goal is to classify text data into positive or negative sentiment, leveraging BERT's powerful ability to understand deep contextual relations in text.
