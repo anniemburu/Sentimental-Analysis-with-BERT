@@ -1,0 +1,9 @@
+kaggle
+pandas
+numpy
+transformers 
+datasets 
+torch 
+evaluate 
+scikit-learn
+emoji
