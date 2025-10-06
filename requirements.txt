@@ -7,3 +7,8 @@ torch
 evaluate 
 scikit-learn
 emoji
+fastapi
+pandas
+numpy
+seaborn
+matplotlib

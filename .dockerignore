@@ -1,9 +1,14 @@
 datasets/*
+*.pyc
+*.pyo
 __pycache__/
 .vscode
 src/models/sentiment_model/*
 evaluate1.
 src/data/data_loader_pros.py
-*.pyc
-*.pyo
+.venv
+venv/
+env/
+.git
+.gitignore
 .DS_Store
